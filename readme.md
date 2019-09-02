@@ -1,1 +1,1 @@
-Tutorial code for Intro to Web3.js.
+Tutorial code for Intro to Web3.js on Chainshot.com.

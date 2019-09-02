@@ -1,0 +1,14 @@
+{
+  "name": "web3-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jenil Thakker",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.2.1"
+  }
+}
